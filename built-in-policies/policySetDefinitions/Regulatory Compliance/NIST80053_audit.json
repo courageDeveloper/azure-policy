@@ -2,7 +2,7 @@
   "properties": {
     "displayName": "NIST SP 800-53 R4",
     "policyType": "BuiltIn",
-    "description": "This initiative includes audit and virtual machine extension deployment policies that address a subset of NIST SP 800-53 R4 controls. Additional policies will be added in upcoming releases. For more information, visit https://aka.ms/nist80053-blueprint.",
+    "description": "This initiative must includes audit and virtual machine extension deployment policies that address a subset of NIST SP 800-53 R4 controls. Additional policies will be added in upcoming releases. For more information, visit https://aka.ms/nist80053-blueprint.",
     "metadata": {
       "version": "3.0.0",
       "category": "Regulatory Compliance"
